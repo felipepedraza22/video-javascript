@@ -29,14 +29,18 @@ En este ejercicio 3 del video  consiste en crear una lista de tareas pendientes 
 
 ![index](/3%20Toggle/index.png)
 
-Este es un código que se utiliza para dar estilo a una página web. Se utilizan diferentes selectores para aplicar estilos a elementos específicos de la página, como el cuerpo de la página, un contenedor y sus elementos internos. Los estilos incluyen propiedades como el color de fondo, la altura y el ancho, la posición, el tamaño de fuente, la opacidad y las transformaciones.
+Este es un código que se utiliza para dar estilo a una página web. Se utilizan diferentes selectores para aplicar estilos a elementos específicos de la página, como el cuerpo de la página, un contenedor y sus elementos internos. Los estilos incluyen propiedades como el color de fondo, la altura y el ancho, la posición, el tamaño de fuente, la opacidad y las transformaciones y lo que esta adentro del parrafo es el mensaje que va a aparece
 
+Despúes de tener la estructura del menu se empieza a implememtar el css en el botón que es una palanca pero solo tiene css y no tiene funcionalidad porque no esta conectado al javascript y asi se ve
 
+![css](/3%20Toggle/css.png)
 
+Despúes de ya tener una pare del css listo donde se ve el botón se empieza a poner su funcionalidad con el javascript con esto se le dice al contenedor y al botón que sirve de palanca que cuando le de click aplique su función 
 
+[javascript](/3%20Toggle/palanca.png)
 
-
-
+Ejercicio 4 
+pri
 
 
 
